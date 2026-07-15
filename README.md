@@ -49,11 +49,4 @@ Implement any **one** of the following:
 - `docker-compose.yml` for local dev
 - Environment-based deploy (dev vs prod)
 
-This section is optional. Not completing it will not negatively affect your evaluation — attempting it is a positive signal, not a requirement.
-
----
-
-## Evaluation Notes (for interviewer)
-- Core requirements are Task 1 (must-haves) + Task 2. A candidate completing these within the time limit.
-- Task 1 nice-to-haves and Task 3 bonus are differentiators, not baseline expectations.
-- If the candidate can't test the registry push live, review the workflow logic/syntax instead of requiring a successful run.
+This section is optional and will not negatively affect your evaluation if skipped.
