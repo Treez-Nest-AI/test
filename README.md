@@ -54,6 +54,6 @@ This section is optional. Not completing it will not negatively affect your eval
 ---
 
 ## Evaluation Notes (for interviewer)
-- Core requirements are Task 1 (must-haves) + Task 2. A candidate completing these within the time limit meets expectations for 2-3 YOE.
+- Core requirements are Task 1 (must-haves) + Task 2. A candidate completing these within the time limit.
 - Task 1 nice-to-haves and Task 3 bonus are differentiators, not baseline expectations.
 - If the candidate can't test the registry push live, review the workflow logic/syntax instead of requiring a successful run.
