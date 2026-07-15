@@ -6,9 +6,10 @@ You have **45 minutes** to complete this test.
 - Submit your fork URL before time is up, even if incomplete
 
 ## Instructions
-1. Clone this repository
+1. Clone or fork this repository to your local machine
 2. Complete the following tasks
-3. Submit your fork URL
+3. Push your completed work to your own GitHub repository
+4. Submit your GitHub repo URL before time is up, even if incomplete
 
 ## Tasks
 
@@ -24,7 +25,7 @@ Create `.github/workflows/ci-cd.yml` that:
 - Triggers on push to `main` and PRs to `main`
 - Installs dependencies and runs tests
 - Builds the Docker image
-- Pushes image to ECR 
+- Pushes image to a container registry of your choice (ECR, Docker Hub, GHCR, etc.)
 - Tags image with git SHA
 
 ### Task 3 — Bonus
